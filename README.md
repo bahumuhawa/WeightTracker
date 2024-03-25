@@ -1,4 +1,4 @@
-# Weight Tracker - 
+# Weight Tracker - Track Your Progress, Transform Your Life!
 
 Introducing a weight tracker utilizing Vue JS and the composition API. Leveraging Vue's watch, nextTick, ref, shallowRef, computed, and Chart JS to create a visual tracker!
 
@@ -7,6 +7,9 @@ Introducing a weight tracker utilizing Vue JS and the composition API. Leveragin
 - Track weight changes over time.
 - Visual representation using Chart JS.
 - Utilizes Vue's composition API for state management.
+
+ ![Weight Tracker](weight-tracker.png)
+
 
 ## Project Setup
 
